@@ -504,3 +504,35 @@ html,body
        width: 100vw;
        object-fit: cover;
 }
+/* ============================page4======================================================== */
+.maincontent5{
+     height: 100vh;
+     width: 100vw;
+     background-color: #0E382C;
+     padding: 10vh 18vh;
+     display: flex;
+     justify-content: space-between;
+     color: white;
+}
+#main5in1 img{
+       height: 10vh;
+       border-radius: 100px;
+}
+#main5in2{
+     line-height: 5vh;
+}
+#main5in3{
+     line-height: 7vh;
+}
+#main5in4{
+     line-height: 8vh;
+}
+#main5in5{
+     line-height: 5vh;
+}
+#main5in5in
+{
+   display: flex;
+   font-size: 4vh;
+    justify-content: space-evenly;     
+}
